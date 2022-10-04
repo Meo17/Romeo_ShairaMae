@@ -1,0 +1,15 @@
+INSTRUCTIONS:
+
+WINDOWS ENVIRONTMENT
+
+1. Use windows
+
+2. Install Xampp
+
+3. Put the file in location:  C:\xampp\htdocs
+
+4. Open chrome -  http://localhost/phpmyadmin/
+and create database name'exam' and import all the tables  sql
+(location file -  C:\Users\xampp\Romeo_ShairaMae\exam.sql
+
+5. Open the url http://localhost/Romeo_ShairaMae/ to view the program
